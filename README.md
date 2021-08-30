@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nf15(actual name: Negash Fufa)
 - 👀 I’m interested in Data Science and related
-- 🌱 I’m currently learning Data Science and am in Graduate program (MS)
+- 🌱 I’m currently learning Data Science and am in a Graduate program (MS)
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me: write me an e-mail
               nfufa13@gmail.com
