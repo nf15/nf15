@@ -2,6 +2,7 @@
 - 👀 My interest is in Data Science and related fields
 - 🌱 I completed my study in Data Science (MS) - (Aug 2022)
 - 💞️ I’m looking for Job as Data Scientist, ML/Data Enginer or related field
+     Review my Resume under this link: https://github.com/nf15/nfufa.github.io
 - 📫 How to reach me: write me an e-mail
               nfufa13@gmail.com
 
