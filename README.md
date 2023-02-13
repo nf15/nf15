@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nfufa(actual name: Negash Fufa)
-- 👀 My interest is Data Science and related fields
-- 🌱 I completed my study in Data Science (MS) - 2022
+- 👋 Hi, I’m @nf15(actual name: Negash Fufa)
+- 👀 My interest is in Data Science and related fields
+- 🌱 I completed my study in Data Science (MS) - (Aug 2022)
 - 💞️ I’m looking for Job as Data Scientist, ML/Data Enginer or related field
 - 📫 How to reach me: write me an e-mail
               nfufa13@gmail.com
